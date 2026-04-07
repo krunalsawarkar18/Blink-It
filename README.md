@@ -33,7 +33,7 @@ A modern, full-stack e-commerce web application inspired by BlinkIt, built with 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **React 18** - Modern UI library with hooks
+- **React** - Modern UI library with hooks
 - **Vite** - Fast build tool and dev server
 - **Tailwind CSS** - Utility-first CSS framework
 - **React Router** - Client-side routing
